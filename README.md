@@ -1,3 +1,10 @@
+## TLDR
+You can just run 
+
+```
+docker-compose up -d
+```
+
 ## Sample LDAP Server
 This is a sample LDAP server with many users for testing.
 It was taken from the docker config provided by [this](https://hub.docker.com/r/bitnami/openldap/)
